@@ -1,4 +1,4 @@
-# Service Portfolio
+# React Service Portfolio
 
 Welcome to the Service Portfolio project! This visually pleasing and eye-grabbing portfolio is built using React, along with various libraries such as react-router, react-router-dom, and react-responsive-carousel. It showcases a collection of services offered by a professional or a company, providing an engaging and interactive user experience.
 
