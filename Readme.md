@@ -19,7 +19,7 @@ Welcome to the Service Portfolio project! This visually pleasing and eye-grabbin
 - Detailed service pages: Each service has its own dedicated page, providing comprehensive information, visuals, and any other relevant details.
 - Smooth navigation: The project utilizes react-router and react-router-dom libraries to ensure smooth and intuitive navigation between different pages and services.
 - Engaging carousel: The react-responsive-carousel library is integrated to showcase visually appealing images and illustrations, making the portfolio visually captivating.
-- Easy deployment: The project is deployed on Vercel, a cloud platform that simplifies the deployment process and allows for easy updates.
+
 
 ## Installation
 
