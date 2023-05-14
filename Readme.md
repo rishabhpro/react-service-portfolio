@@ -48,7 +48,7 @@ The Service Portfolio project relies on the following dependencies:
 - react-router-dom: A library that enables routing in React applications using DOM bindings.
 - react-responsive-carousel: A flexible and customizable carousel component for React.
 
-Make sure to review the package.json file for the specific versions used.
+Make sure to review the package.json file for the specific versions used in the project.
 
 
 
