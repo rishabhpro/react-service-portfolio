@@ -23,7 +23,7 @@ Welcome to the Service Portfolio project! This visually pleasing and eye-grabbin
 
 ## Installation
 
-To run the Service Portfolio project locally, follow these steps:
+To run the Service Portfolio project locally, follow these steps------------------------------------------------
 
 1. Clone the repository: `git clone https://github.com/rishabhpro/react-service-portfolio`
 2. Change into the project directory: `cd react-service-portfolio`
